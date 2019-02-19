@@ -1,5 +1,10 @@
-# MLP-from-scratch
+# MLP from scratch
 Multilayer Perceptron implementation from scratch in Matlab
+
+<p align="center">
+  <img src="http://ericstrong.org/wp-content/uploads/2017/01/NeuralNetworkDiagram.png" width="350" title="MLP">
+</p>
+
 
 This repository is an effort to build an MLP from scratch. The model is trained using gradient descent and it supports batch training.
 It is not guaranteed to produce the best results and can not be compared to famous libraries such as
