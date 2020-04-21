@@ -2,7 +2,7 @@
 Multilayer Perceptron implementation from scratch in Matlab
 
 <p align="center">
-  <img src="http://ericstrong.org/wp-content/uploads/2017/01/NeuralNetworkDiagram.png" width="350" title="MLP">
+  <img src="https://static.javatpoint.com/tutorial/tensorflow/images/multi-layer-perceptron-in-tensorflow.png" width="350" title="MLP">
 </p>
 
 
